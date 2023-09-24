@@ -1,4 +1,4 @@
-## Thanks for visiting my Github! <img src="https://raw.githubusercontent.com/luckydevn16/luckydevn16/main/greeting.gif" width="30">
+## Thanks for visiting my Github! <img src="https://raw.githubusercontent.com/luckydevn16/luckydevn16/main/greeting.gif" width="30" />
 
 As a **full-stack web developer**, I thrive on creating seamless user experiences that bring ideas to life. With expertise in both front-end and back-end development, I'm able to craft dynamic web applications from start to finish. Whether it's building responsive layouts or integrating complex APIs, I'm committed to delivering elegant solutions that exceed expectations.
 
