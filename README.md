@@ -3,11 +3,8 @@
 As a **full-stack web developer**, I thrive on creating seamless user experiences that bring ideas to life. With expertise in both front-end and back-end development, I'm able to craft dynamic web applications from start to finish. Whether it's building responsive layouts or integrating complex APIs, I'm committed to delivering elegant solutions that exceed expectations.
 
 [![Gmail Badge](https://img.shields.io/badge/luckydevn16@gmail.com-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:luckydevn16@gmail.com)
-
 [![Telegram Badge](https://img.shields.io/badge/luckydevn16-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/luckydevn16)
-
 [![Skype Badge](https://img.shields.io/badge/-luckydevn16-00AFF0?logo=skype&logoColor=fff&style=flat)](https://join.skype.com/invite/vrb1Ds8a7YFK)
-
 [![GitHub Badge](https://img.shields.io/badge/luckydevn16-181717?logo=github&logoColor=fff&style=flat)](https://github.com/luckydevn16)
 
 
