@@ -199,7 +199,7 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
 ![Toptal Badge](https://img.shields.io/badge/Toptal-3863A0?logo=toptal&logoColor=fff&style=flat)
 ![Udemy Badge](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff&style=flat)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=luckydevn16&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckydevn16&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luckydevn16.luckydevn16)
