@@ -13,7 +13,7 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
 ## Technologies
 
 <table>
-    <tr>
+    <tr align="middle">
         <td align="center">
             <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" />
         </td>
@@ -32,19 +32,29 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
         <td align="center">
             <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat" />
         </td>
+    </tr>
+    <tr align="middle">
         <td align="center">
             <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat" />
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" />
         </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=flat" />
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat" />
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=flat" />
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Recoil-3578E5?logo=recoil&logoColor=fff&style=flat" />
+        </td>
     </tr>
 </table>
 
-![React Query Badge](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=flat)
-![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat)
-![React Hook Form Badge](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=flat)
-![Recoil Badge](https://img.shields.io/badge/Recoil-3578E5?logo=recoil&logoColor=fff&style=flat)
 ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=flat)
 ![Gatsby Badge](https://img.shields.io/badge/Gatsby-639?logo=gatsby&logoColor=fff&style=flat)
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
