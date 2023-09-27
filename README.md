@@ -85,7 +85,7 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
             <img src="https://img.shields.io/badge/Handlebars.js-000?logo=handlebarsdotjs&logoColor=fff&style=flat" />
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" />
+            <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" />
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=flat" />
@@ -99,16 +99,13 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
             <img src="https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=fff&style=flat" />
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Semantic%20UI%20React-35BDB2?logo=semanticuireact&logoColor=fff&style=flat" />
-        </td>
-        <td align="center">
             <img src="https://img.shields.io/badge/Blueprint-137CBD?logo=blueprint&logoColor=fff&style=flat" />
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" />
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Create%20React%20App-09D3AC?logo=createreactapp&logoColor=fff&style=flat" />
+            <img src="https://img.shields.io/badge/CRA-09D3AC?logo=createreactapp&logoColor=fff&style=flat" />
         </td>
     </tr>
 </table>
@@ -426,7 +423,7 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
             <img src="https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff&style=flat" />
         </td>
         <td align="center">
-            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" />
+            <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" />
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" />
