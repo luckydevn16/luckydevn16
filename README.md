@@ -1,9 +1,8 @@
 ## Thanks for visiting my Github!
-<img src="https://raw.githubusercontent.com/luckydevn16/luckydevn16/main/greeting.gif" width="30" />
 
 As a **full-stack web developer**, I thrive on creating seamless user experiences that bring ideas to life. With expertise in both front-end and back-end development, I'm able to craft dynamic web applications from start to finish. Whether it's building responsive layouts or integrating complex APIs, I'm committed to delivering elegant solutions that exceed expectations.
 
-## Contact
+## Get in touch
 
 [![Gmail Badge](https://img.shields.io/badge/luckydevn16@gmail.com-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:luckydevn16@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/luckydevn16-26A5E4?logo=telegram&logoColor=fff&style=flat)](https://t.me/luckydevn16)
@@ -13,14 +12,35 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
 
 ## Technologies
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Sass Badge](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat)
-![Less Badge](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff&style=flat)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+<table>
+    <tr>
+        <td align="center">
+            <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" />
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" />
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" />
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat" />
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff&style=flat" />
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat" />
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat" />
+        </td>
+        <td align="center">
+            <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" />
+        </td>
+    </tr>
+</table>
+
 ![React Query Badge](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=flat)
 ![React Router Badge](https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=fff&style=flat)
 ![React Hook Form Badge](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=flat)
