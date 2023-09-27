@@ -408,27 +408,23 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
         <td align="center">
             <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=flat" />
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat" />
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=flat" />
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat" />
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/CodePen-000?logo=codepen&logoColor=fff&style=flat" />
         </td>
         <td align="center">
             <img src="https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff&style=flat" />
         </td>
-    </tr>
-    <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" />
         </td>
@@ -438,6 +434,8 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
         <td align="center">
             <img src="https://img.shields.io/badge/JetBrains-000?logo=jetbrains&logoColor=fff&style=flat" />
         </td>
+    </tr>
+    <tr>
         <td align="center">
             <img src="https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff&style=flat" />
         </td>
@@ -487,13 +485,10 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
             <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=fff&style=flat" />
         </td>
         <td align="center">
-            <img src="" />
+            <img src="https://img.shields.io/badge/Stack%20Exchange-1E5397?logo=stackexchange&logoColor=fff&style=flat" />
         </td>
     </tr>
     <tr>
-        <td align="center">
-            <img src="https://img.shields.io/badge/Stack%20Exchange-1E5397?logo=stackexchange&logoColor=fff&style=flat" />
-        </td>
         <td align="center">
             <img src="https://img.shields.io/badge/StackBlitz-1269D3?logo=stackblitz&logoColor=fff&style=flat" />
         </td>
