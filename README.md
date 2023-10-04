@@ -14,19 +14,19 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
 <table>
     <tr>
         <td align="center">
-            <img src="https://github.com/luckydevn16/luckydevn16/blob/certifications/hackerrank/css.png" width="20%" />
+            <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/css.png" width="20%" />
         </td>
         <td align="center">
-            <img src="https://github.com/luckydevn16/luckydevn16/blob/certifications/hackerrank/javascript_basic.png" width="20%" />
+            <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/javascript_basic.png" width="20%" />
         </td>
         <td align="center">
-            <img src="https://github.com/luckydevn16/luckydevn16/blob/certifications/hackerrank/react_basic.png" width="20%" />
+            <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/react_basic.png" width="20%" />
         </td>
         <td align="center">
-            <img src="https://github.com/luckydevn16/luckydevn16/blob/certifications/hackerrank/python_basic.png" width="20%" />
+            <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/python_basic.png" width="20%" />
         </td>
         <td align="center">
-            <img src="https://github.com/luckydevn16/luckydevn16/blob/certifications/hackerrank/sql_basic.png" width="20%" />
+            <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/sql_basic.png" width="20%" />
         </td>
     </tr>
 </table>
