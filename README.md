@@ -12,11 +12,11 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
 ## HackerRank Certifications
 
 <div style="display: flex; gap: 16px; width: 100%;">
-    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/css.png" width="20%" />
-    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/javascript_basic.png" width="20%" />
-    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/react_basic.png" width="20%" />
-    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/python_basic.png" width="20%" />
-    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/sql_basic.png" width="20%" />
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/css.png"/>
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/javascript_basic.png"/>
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/react_basic.png"/>
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/python_basic.png"/>
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/sql_basic.png"/>
 </div>
 
 
