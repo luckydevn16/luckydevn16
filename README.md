@@ -9,7 +9,9 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
 [![Skype Badge](https://img.shields.io/badge/-luckydevn16-00AFF0?logo=skype&logoColor=fff&style=flat)](https://join.skype.com/invite/vrb1Ds8a7YFK)
 [![GitHub Badge](https://img.shields.io/badge/luckydevn16-181717?logo=github&logoColor=fff&style=flat)](https://github.com/luckydevn16)
 
-## HackerRank Certifications
+## Certifications
+
+HackerRank Profile: <a href="https://www.hackerrank.com/luckydevn16" target="_blank">https://www.hackerrank.com/luckydevn16</a>
 
 <div style="display: flex; gap: 1.25%; width: 100%;">
     <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/css.png" width="19%"/>
