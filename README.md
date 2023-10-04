@@ -9,24 +9,24 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
 [![Skype Badge](https://img.shields.io/badge/-luckydevn16-00AFF0?logo=skype&logoColor=fff&style=flat)](https://join.skype.com/invite/vrb1Ds8a7YFK)
 [![GitHub Badge](https://img.shields.io/badge/luckydevn16-181717?logo=github&logoColor=fff&style=flat)](https://github.com/luckydevn16)
 
-## Certifications
+## HackerRank Certifications
 
 <table>
     <tr>
         <td align="center">
-            <iframe src=`https://www.hackerrank.com/certificates/iframe/8eec68c6aae6`></iframe>
+            <img src="https://github.com/luckydevn16/luckydevn16/blob/certifications/hackerrank/css.png" width="20%" />
         </td>
         <td align="center">
-            <iframe src="https://www.hackerrank.com/certificates/iframe/5aba3d55ef5a"></iframe>
+            <img src="https://github.com/luckydevn16/luckydevn16/blob/certifications/hackerrank/javascript_basic.png" width="20%" />
         </td>
         <td align="center">
-            <iframe src="https://www.hackerrank.com/certificates/iframe/6908600828c6"></iframe>
+            <img src="https://github.com/luckydevn16/luckydevn16/blob/certifications/hackerrank/react_basic.png" width="20%" />
         </td>
         <td align="center">
-            <iframe src="https://www.hackerrank.com/certificates/iframe/58f678c2087a"></iframe>
+            <img src="https://github.com/luckydevn16/luckydevn16/blob/certifications/hackerrank/python_basic.png" width="20%" />
         </td>
         <td align="center">
-            <iframe src="https://www.hackerrank.com/certificates/iframe/c93c60328b76"></iframe>
+            <img src="https://github.com/luckydevn16/luckydevn16/blob/certifications/hackerrank/sql_basic.png" width="20%" />
         </td>
     </tr>
 </table>
