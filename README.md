@@ -11,25 +11,13 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
 
 ## HackerRank Certifications
 
-<table>
-    <tr>
-        <td align="center">
-            <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/css.png" width="20%" />
-        </td>
-        <td align="center">
-            <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/javascript_basic.png" width="20%" />
-        </td>
-        <td align="center">
-            <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/react_basic.png" width="20%" />
-        </td>
-        <td align="center">
-            <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/python_basic.png" width="20%" />
-        </td>
-        <td align="center">
-            <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/sql_basic.png" width="20%" />
-        </td>
-    </tr>
-</table>
+<div style="display: flex; gap: 16px; width: 100%;">
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/css.png" width="20%" />
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/javascript_basic.png" width="20%" />
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/react_basic.png" width="20%" />
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/python_basic.png" width="20%" />
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/sql_basic.png" width="20%" />
+</div>
 
 
 ## Technologies
