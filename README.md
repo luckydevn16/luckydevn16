@@ -512,6 +512,6 @@ HackerRank Profile: <a href="https://www.hackerrank.com/luckydevn16" target="_bl
 
 ## Github Stats & Most Used Languages
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jakearchibald&count_private=true&show_icons=true&include_all_commits=true&custom_title=luckydevn16's%20Github%20Stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakearchibald&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=luckydevn16&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckydevn16&hide=TeX&layout=compact)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luckydevn16.luckydevn16)
