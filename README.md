@@ -14,10 +14,18 @@ As a **full-stack web developer**, I thrive on creating seamless user experience
 HackerRank Profile: <a href="https://www.hackerrank.com/luckydevn16" target="_blank">https://www.hackerrank.com/luckydevn16</a>
 
 <div style="display: flex; gap: 1.25%; width: 100%;">
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/angular_basic.png" width="19%"/>
     <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/css.png" width="19%"/>
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/java_basic.png" width="19%"/>
     <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/javascript_basic.png" width="19%"/>
-    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/react_basic.png" width="19%"/>
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/nodejs_basic.png" width="19%"/>
+</div>
+
+<div style="display: flex; gap: 1.25%; width: 100%;">
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/problem_solving_basic.png" width="19%"/>
     <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/python_basic.png" width="19%"/>
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/react_basic.png" width="19%"/>
+    <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/sql_advanced.png" width="19%"/>
     <img src="https://github.com/luckydevn16/luckydevn16/blob/main/certifications/hackerrank/sql_basic.png" width="19%"/>
 </div>
 
